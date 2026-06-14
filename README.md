@@ -6,5 +6,6 @@ OSIB_WebDevelopment&Design:
 □ Tech Stack:
 |HTML CSS JS |
 
-□ A beginner friendly internship for 1st year students interested in web development in future.
+□  This is a  beginner friendly- internship for 1st year students interested in web development in future.
+
 
