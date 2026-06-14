@@ -1,4 +1,4 @@
-OSIB_WebDevelopmentandDesign:
+OSIB_WebDevelopment&Design:
 
 <A virtual internship in domain  of Web development and design by Oasis Infobyte>
 
